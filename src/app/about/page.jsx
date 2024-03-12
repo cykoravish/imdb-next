@@ -1,17 +1,35 @@
-import React from "react";
-
 export default function About() {
   return (
-    <div className="max-w-6xl mx-auto p-3 space-y-4">
-      <h1 className="text-2xl font-medium text-amber-600">About</h1>
+    <div className='max-w-6xl mx-auto p-3 space-y-4'>
+      <h1 className='text-2xl font-medium text-amber-600'>About</h1>
       <p>
-      Movie websites serve as digital hubs for film enthusiasts, offering a vast array of information about upcoming releases, trailers, reviews, and behind-the-scenes content. These platforms often feature user-friendly interfaces, making it easy for visitors to navigate and explore various genres, actors, and directors. With interactive features like personalized recommendations and integrated ticket booking, movie websites enhance the overall cinematic experience for audiences worldwide.
+        Welcome to our movie database website! We are a team of passionate movie
+        enthusiasts who have come together to create a one-stop destination for
+        all your movie-related needs.
       </p>
+
       <p>
-      A well-designed movie website captivates users with visually stunning graphics, enticing trailers, and engaging content. From blockbuster hits to indie gems, these platforms showcase a diverse range of films, catering to every taste and preference. Advanced search filters and curated lists help users discover new favorites, while interactive forums and social media integration foster a sense of community among movie buffs, encouraging discussions and debates about the latest releases and timeless classics.
+        Our website is designed to provide you with a comprehensive database of
+        movies from all around the world, along with the latest news, reviews,
+        and trailers. Our movie database is constantly updated with new
+        releases, ensuring that you have access to the latest and greatest in
+        the world of cinema. You can search for movies by title, director,
+        actor, genre, or release date, making it easy to find the perfect movie
+        for any occasion.
       </p>
+
       <p>
-      Behind the scenes, movie websites rely on cutting-edge technology and data analytics to optimize user experience and drive engagement. By analyzing user behavior and preferences, these platforms continuously evolve, offering personalized recommendations and tailored content to keep audiences hooked. With mobile-friendly designs and seamless integration across devices, movie websites ensure that film enthusiasts can access their favorite content anytime, anywhere, fostering a global community of passionate cinema lovers.
+        In addition to our extensive movie database, we also offer a platform
+        for movie lovers to connect and share their thoughts on the latest
+        releases. Our community section includes a forum where you can discuss
+        your favorite films with like-minded individuals and read reviews and
+        ratings from other users. We also have a section dedicated to movie news
+        and trailers, keeping you updated with the latest happenings in the
+        world of cinema. Thank you for visiting our website and we hope you
+        enjoy your time browsing through our movie database. If you have any
+        feedback or suggestions, please feel free to contact us. We are always
+        looking for ways to improve and enhance the user experience on our
+        website. Happy browsing!
       </p>
     </div>
   );
